@@ -1,0 +1,62 @@
+input {
+
+    background-color: #43c9f1;
+    
+    font: bold; color:#f5c422;
+    
+    border:2px solid #5e39e7;
+    
+    }
+    
+    textarea {
+    
+    background-color: #c52e86;
+    
+    color:#02020c; border:1px solid #ee088e;
+    
+    }
+    
+    button{
+    
+    background-color: #15dd8a;
+    
+    font:13px verdana, arial, helvetica, sans-serif;
+    
+    color:#e76915; border:2px solid #860617;
+    
+    }
+    
+    select {
+    
+    background-color: #14581f;
+    
+    font:13px verdana, arial, helvetica, sans-serif;
+    
+    color:#2cb2db;
+    
+    }
+    
+    label {
+    
+    font:13px verdana, arial, helvetica, sans-serif;
+    
+    color:#4990e0;
+    
+    }
+    
+    form{
+    
+    background-color: #99e918;
+    
+    border:2px solid #5b8a0a;
+    
+    }
+    
+    form{
+    
+    border:2px solid #aae607;
+    
+    background: url(a.png) no-repeat;
+    
+    }
+
