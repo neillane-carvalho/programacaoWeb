@@ -1,0 +1,25 @@
+p {
+    color: blueviolet;
+    text-align: center;
+    width: 20%;
+    height: 50%;
+  }
+  
+  h1,
+  h3 {
+    color: white;
+    text-align: :left;
+    background-color: blue;
+  }
+  
+  h2,
+  h4 {
+    color: red;
+    text-align: :left;
+    background-color: pink;
+  }
+  
+  html {
+    height: 100%;
+    width: 100%;
+  }
